@@ -116,27 +116,27 @@ python main.py
 
 ---
 
-### 🌐 Open-google
+### 🌐 Open Google
 
-![Google](screenshots/open%20google.png)
-
----
-
-### 📧 Open-gmail
-
-![Gmail](screenshots/open%20gmail.png)
+![Google](screenshots/open-google.png)
 
 ---
 
-### ▶️ Open-youTube
+### 📧 Open Gmail
 
-![YouTube](screenshots/open%20youtube.png)
+![Gmail](screenshots/open-gmail.png)
 
 ---
 
-### 🔍 search-and-wikipedia
+### ▶️ Open YouTube
 
-![Wikipedia](screenshots/search%20and%20wikipedia.png)
+![YouTube](screenshots/open-youtube.png)
+
+---
+
+### 🔍 Search & Wikipedia
+
+![Wikipedia](screenshots/search-and-wikipedia.png)
 
 ---
 
@@ -145,7 +145,6 @@ python main.py
 ![Joke](screenshots/joke.png)
 
 ---
-
 ## 📈 Future Enhancements
 
 * ChatGPT Integration
