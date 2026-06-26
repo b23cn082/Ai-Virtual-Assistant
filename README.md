@@ -116,25 +116,25 @@ python main.py
 
 ---
 
-### 🌐 Open-Google
+### 🌐 Open-google
 
 ![Google](screenshots/open%20google.png)
 
 ---
 
-### 📧 Open-Gmail
+### 📧 Open-gmail
 
 ![Gmail](screenshots/open%20gmail.png)
 
 ---
 
-### ▶️ Open-YouTube
+### ▶️ Open-youTube
 
 ![YouTube](screenshots/open%20youtube.png)
 
 ---
 
-### 🔍 Search-and-Wikipedia
+### 🔍 search-and-wikipedia
 
 ![Wikipedia](screenshots/search%20and%20wikipedia.png)
 
